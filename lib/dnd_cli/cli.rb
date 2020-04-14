@@ -30,7 +30,7 @@ class CLI
   end
 
   def select_spell
-    puts "[Enter the corresponding (number) of the spell for which you would like Zed to give you more information, or you may type exit to leave Zed's shop!]"
+    puts "[Enter the corresponding number of the spell for which you would like Zed to give you more information, or you may type exit to leave Zed's shop!]"
     puts ">"
 
     user_input = gets.to_s
