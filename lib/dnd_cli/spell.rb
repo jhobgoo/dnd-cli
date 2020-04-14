@@ -16,18 +16,8 @@ class Spell
     @@all
   end
 
-  # def name=(name)
-  #   @name = name
-  # end
-  #
-  # def name
-  #   @name
-  # end
-
 end
 
-#binding.pry
-#spell_object = Spell.new('Acid Arrow', 'acid-arrow')
+# binding.pry
+# spell_object = Spell.new('Acid Arrow', 'acid-arrow')
 # spell_object.name
-
-#binding.pry
